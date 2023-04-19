@@ -1,2 +1,2 @@
 # Diabetes
-data analysis diabetes 
+Data analysis diabetes using Python and Pandas 
